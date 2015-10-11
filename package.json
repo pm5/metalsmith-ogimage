@@ -1,0 +1,25 @@
+{
+  "name": "metalsmith-ogimage",
+  "version": "0.0.1",
+  "description": "Metalsmith plugin for Open Graph image tag.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pm5/metalsmith-ogimage.git"
+  },
+  "keywords": [
+    "metalsmith"
+  ],
+  "author": "Pomin Wu <pomin5@gmail.com> (https://github.com/pm5)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pm5/metalsmith-ogimage/issues"
+  },
+  "homepage": "https://github.com/pm5/metalsmith-ogimage#readme",
+  "devDependencies": {
+    "debug": "^2.2.0"
+  }
+}
